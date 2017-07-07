@@ -13,3 +13,14 @@ body {
     color: Aquamarine;
     font-size: 16px;
 }
+h2 {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
